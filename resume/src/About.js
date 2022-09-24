@@ -13,7 +13,7 @@ const About = () => {
                         KIET Group of Institutions · (+91)6396143434 · 
                         <a href="mailto:name@email.com">varunagarwal10.2@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">I am experienced in developing various projects made from css frameworks bootstrap, tailwind. Also I have worked in javascript and react js. I am currently learning node js and express js.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/varun-agarwal-b91518226/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/1010varun"><i class="fab fa-github"></i></a>
