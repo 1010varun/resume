@@ -1,18 +1,23 @@
 import React from "react";
-import "./style.css";
-import Navbar from "./Navbar";
-import About from "./About";
-// import Experience from "./Experience";
-import Education from "./Education";
-import Skills from "./Skills";
-import Intrests from "./Intrests";
+
+
+import Navbar from "./Components/Navbar";
+import About from "./Components/About";
+import Education from "./Components/Education";
+import Skills from "./Components/Skills";
+import Intrests from "./Components/Intrests";
+import Project from "./Components/project";
+
+
+import "./css/style.css";
+import "./css/navbar.css";
 
 const App = () => {
     return(
         <div>
             <Navbar/>
             <About/>
-            {/* <Experience/> */}
+            <Project/>
             <Education/>
             <Skills/>
             <Intrests/>
