@@ -10,10 +10,10 @@ const ProjectCard = ({heading, subHeading, details, link, github, icon}) => {
         </div>
         <div class="flex-shrink-0">
           <span class="text-primary">
-            <a class="btn btn-primary" href={link} role="button">
+            <a class="btn btn-primary mb-2" href={link} role="button">
               Visit Site {icon}
             </a>
-            <br></br><br></br>
+            <br></br>
             <a class="btn btn-primary" href={github} role="button">
               See on Github {icon}
             </a>
