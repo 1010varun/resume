@@ -16,7 +16,7 @@ const About = () => {
               </a>
             </div>
             <p class="lead mb-5">
-              I am a ungrad B.Tech. Student from CSE Major. Currently learning and developing various projects made with the help of React, Node, Express, Mongodb. Also I have a keen intrest in Django the backend framework of python.
+              I am a ungrad B.Tech. Student from CSE Major. Currently learning and developing various projects made with the help of React, Node, Express, Mongodb. Also I have a keen intrest in Django the web framework of python.
             </p>
             <div class="social-icons">
               <a
