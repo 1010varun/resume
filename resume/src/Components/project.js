@@ -14,7 +14,7 @@ const Project = () => {
             heading={"Task Manager"}
             subHeading={"An app used to Manage your task"}
             details={
-              "This app is made using MERN stack along with tailwind css. This is an app which is used to manage your daily tasks. This app performs CRUD operation to create, update and delete the data. "
+              "Using the MERN stack in combination with Tailwind CSS, I created a dynamic application that facilitates daily task management. This app is designed to enable the user to perform CRUD operations, allowing them to efficiently create, update and delete data related to their tasks. Whether for personal or professional use, this app is a powerful tool for streamlining daily productivity."
             }
             link={"https://task-mnge.netlify.app/"}
             github={"https://github.com/1010varun/task-manager-frontend"}
@@ -25,7 +25,7 @@ const Project = () => {
             heading={"Text to QR"}
             subHeading={"A site which can convert text to QR"}
             details={
-              "This app is made using React js and bootstrap. This app is mainly used to convert or generate the respective QR Code from the written Text. "
+              "In this project, I leveraged React JS and Bootstrap to develop an application that enables users to generate and convert text into corresponding QR codes. The app is designed with a user-friendly interface that makes it easy for anyone to generate QR codes from written text quickly and effortlessly."
             }
             link={"https://convert-to-qr.netlify.app/"}
             github={"https://github.com/1010varun/qr-convertor"}
@@ -36,7 +36,7 @@ const Project = () => {
             heading={"tru Weather"}
             subHeading={"A site which tells the current climate conditions"}
             details={
-              "This app is made using React js and tailwind css. This site is used to find the current climate conditions like temperature, Clouds, Wind speed, Rainfall prediction by user's current location or by the entered location. "
+              "This app allows users to access real-time climate information, including temperature, cloud cover, wind speed, and rainfall prediction. Users can retrieve this information by entering their current location or a specific location of interest."
             }
             link={"https://tru-weather.netlify.app/"}
             github={"https://github.com/1010varun/weather-app"}

@@ -10,7 +10,7 @@ const Education = () => {
             <EducationCard
               heading={"KIET Group of Institution"}
               subHeading={"Bachelor of Technology"}
-              details={"Computer Science - Web Development Track"}
+              details={"Computer Science and Engineering"}
               percentage={"CGPA : 8.9"}
               timePeriod={"August 2021 - May 2025"}
             />
