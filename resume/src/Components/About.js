@@ -22,7 +22,7 @@ const About = () => {
             <div class="social-icons">
               <a
                 class="social-icon"
-                href="https://www.linkedin.com/in/varun-agarwal-b91518226/"
+                href="https://www.linkedin.com/in/1010varun/"
               >
                 <i class="fab fa-linkedin-in"></i>
               </a>
@@ -35,7 +35,7 @@ const About = () => {
               <a class="social-icon" href="https://www.codechef.com/users/varun_aga1010">
                 <SiCodechef/>
               </a>
-              <a class="social-icon" href="https://leetcode.com/varun_aga1010/">
+              <a class="social-icon" href="https://leetcode.com/1010varun/">
                 <SiLeetcode/>
               </a>
             </div>
