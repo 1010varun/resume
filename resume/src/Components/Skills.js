@@ -17,6 +17,7 @@ import {
   SiMongodb,
   SiExpress,
   SiPostman,
+  SiRedux,
 } from "react-icons/si";
 
 const Skills = () => {
@@ -67,6 +68,11 @@ const Skills = () => {
               <li class="list-inline-item">
                 <i title="React">
                   <FaReact />
+                </i>
+              </li>
+              <li class="list-inline-item">
+                <i title="Redux">
+                  <SiRedux />
                 </i>
               </li>
               <li class="list-inline-item">

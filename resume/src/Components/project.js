@@ -11,10 +11,38 @@ const Project = () => {
         <div class="resume-section-content">
           <h2 class="mb-5">Projects</h2>
           <ProjectCard
-            heading={"Task Manager"}
-            subHeading={"An app used to Manage your task"}
+            heading={"Graphical Password"}
+            subHeading={
+              "Tool which can be used to make passwords more personalize"
+            }
             details={
-              "Using the MERN stack in combination with Tailwind CSS, I created a dynamic application that facilitates daily task management. This app is designed to enable the user to perform CRUD operations, allowing them to efficiently create, update and delete data related to their tasks. Whether for personal or professional use, this app is a powerful tool for streamlining daily productivity."
+              "By utilizing images instead of conventional PINs or passwords, this tool enhances password personalization. It offers a secure approach to safeguarding data and information, as images are harder to crack or breach. With this tool, your passwords become more unique, providing an added layer of safety and security."
+            }
+            link={
+              "http://graphical-password.s3-website.ap-south-1.amazonaws.com"
+            }
+            github={"https://github.com/1010varun/GraphicalPasswordBackEnd"}
+            icon={<FiExternalLink />}
+          />
+
+          <ProjectCard
+            heading={"URL Shortner"}
+            subHeading={"Tool which can be used to shorten URLs"}
+            details={
+              "This tool combines Django as the backend and React with Redux as the frontend to create a URL shortener. It simplifies long and unattractive URLs into shorter and more concise ones, offering a convenient solution for managing and sharing links."
+            }
+            link={
+              "http://url-short-frontend.s3-website.ap-south-1.amazonaws.com"
+            }
+            github={"https://github.com/1010varun/urlShortner"}
+            icon={<FiExternalLink />}
+          />
+
+          <ProjectCard
+            heading={"Task Manager"}
+            subHeading={"Tool which can be used to Manage task"}
+            details={
+              "Effortlessly manage your daily tasks with this tool. Its user-friendly interface allows for easy recording and organization of your daily tasks or jobs. Stay organized and keep track of your tasks efficiently with this convenient and user-friendly tool."
             }
             link={"https://task-mnge.netlify.app/"}
             github={"https://github.com/1010varun/task-manager-frontend"}
@@ -23,9 +51,9 @@ const Project = () => {
 
           <ProjectCard
             heading={"Text to QR"}
-            subHeading={"A site which can convert text to QR"}
+            subHeading={"A tool which can convert text and links in QR"}
             details={
-              "In this project, I leveraged React JS and Bootstrap to develop an application that enables users to generate and convert text into corresponding QR codes. The app is designed with a user-friendly interface that makes it easy for anyone to generate QR codes from written text quickly and effortlessly."
+              "With its user-friendly interface, this tool efficiently transforms your text and links into QR codes. It simplifies the process of generating QR codes, making them easily shareable and accessible. Conveniently convert your texts and links into QR codes for seamless sharing and quick access."
             }
             link={"https://convert-to-qr.netlify.app/"}
             github={"https://github.com/1010varun/qr-convertor"}
@@ -34,9 +62,9 @@ const Project = () => {
 
           <ProjectCard
             heading={"tru Weather"}
-            subHeading={"A site which tells the current climate conditions"}
+            subHeading={"Tool which can be used to access weather information"}
             details={
-              "This app allows users to access real-time climate information, including temperature, cloud cover, wind speed, and rainfall prediction. Users can retrieve this information by entering their current location or a specific location of interest."
+              "Easily retrieve weather information using this tool. It offers the capability to obtain weather data for any location, including the user's current location. With its user-friendly interface, accessing weather information becomes effortless. Get accurate and up-to-date weather data with this convenient and user-friendly tool."
             }
             link={"https://tru-weather.netlify.app/"}
             github={"https://github.com/1010varun/weather-app"}
