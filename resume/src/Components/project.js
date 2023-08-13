@@ -19,7 +19,7 @@ const Project = () => {
               "By utilizing images instead of conventional PINs or passwords, this tool enhances password personalization. It offers a secure approach to safeguarding data and information, as images are harder to crack or breach. With this tool, your passwords become more unique, providing an added layer of safety and security."
             }
             link={
-              "http://graphical-password.s3-website.ap-south-1.amazonaws.com"
+              "https://visualcipher.netlify.app/login"
             }
             github={"https://github.com/1010varun/GraphicalPasswordBackEnd"}
             icon={<FiExternalLink />}
@@ -32,7 +32,7 @@ const Project = () => {
               "This tool combines Django as the backend and React with Redux as the frontend to create a URL shortener. It simplifies long and unattractive URLs into shorter and more concise ones, offering a convenient solution for managing and sharing links."
             }
             link={
-              "http://url-short-frontend.s3-website.ap-south-1.amazonaws.com"
+              "https://url-small.netlify.app/"
             }
             github={"https://github.com/1010varun/urlShortner"}
             icon={<FiExternalLink />}
