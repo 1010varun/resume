@@ -90,6 +90,7 @@ const Navbar = () => (
                 Interests
               </a>
             </Link>
+            <a class="nav-link js-scroll-trigger" href="https://1010varun.hashnode.dev/" target={"_blank"} rel="noopener noreferrer">Hashnode</a>
             <a class="nav-link js-scroll-trigger" href="https://drive.google.com/file/d/19vDRltjGs5rvY3Gs2YM7OQs9Oqvv9GVJ/view?usp=share_link" download target={"_blank"} rel="noopener noreferrer">Resume</a>
           </li>
         </ul>
